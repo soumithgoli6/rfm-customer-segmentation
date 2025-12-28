@@ -103,6 +103,16 @@ Clustering results broadly align with RFM-based segments, validating the rule-ba
 
 ---
 
+## Customer Action Mapping
+
+Each customer segment is paired with a recommended business action and an
+ROI intuition, translating analytical insights into deployable strategies.
+
+This makes the segmentation directly usable for marketing, retention,
+and revenue optimization teams.
+
+---
+
 ## Methodology
 RFM segmentation was chosen for its interpretability and robustness.  
 Quartile-based scoring ensures consistent customer comparison and reduces sensitivity to extreme values.
@@ -126,6 +136,8 @@ Quartile-based scoring ensures consistent customer comparison and reduces sensit
 
 ## Output
 The final customer segmentation is exported as:
+
+---
 
 ## rfm_customer_segmentation_final.csv
 This framework can be extended into a production-ready customer analytics pipeline.
